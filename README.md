@@ -11,7 +11,7 @@ Realização:
 ## Parte 2: Parte 2: Simulando Blink Externo
 
 Circuito simulado no TinkerCad:
-<img src="./circuito.jpg">
+<img src="./circuito.png">
 
 Código:
 
