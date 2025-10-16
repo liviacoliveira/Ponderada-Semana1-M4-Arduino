@@ -3,7 +3,7 @@
 ## Parte 1: Blink Led Interno
 
 Código:
-<img src="codigo.png">
+<img src="./codigo.jpg">
 
 Realização:
-<img src="realizacao.png">
+<img src="./realizacao.jpg">
